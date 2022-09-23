@@ -1,0 +1,2 @@
+/*this directory deals with c variables and loops
+*/
