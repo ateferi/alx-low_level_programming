@@ -2,9 +2,9 @@
 
 
 /**
- *main: writes "_putchar" to the screen followed by a newline
+ * main: writes the phrase "_putchar" to the screen followed by a newline
  *
- * Return: return 0;
+ * Return: return (0);
  *
  */
 int main(void)
