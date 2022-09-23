@@ -1,6 +1,6 @@
 /*
  * File: 6-print_numberz.c
- * Auth: Brennan D Baraban
+ * Auth: Abebe T. Lemma
  */
 
 #include <stdio.h>
