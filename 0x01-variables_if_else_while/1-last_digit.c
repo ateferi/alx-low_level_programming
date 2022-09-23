@@ -1,6 +1,6 @@
 /*
  * File: 1-last_digit.c
- * Auth: Brennan D Baraban
+ * Auth: Abebe T. Lemma
  */
 
 #include <stdlib.h>
