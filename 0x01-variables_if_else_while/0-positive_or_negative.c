@@ -5,7 +5,7 @@
 
 #include <stdlib.h>
 #include <time.h>
-#include <sthio.h>
+#include <stdio.h>
 
 /**
  * main -Prints a random number and states
