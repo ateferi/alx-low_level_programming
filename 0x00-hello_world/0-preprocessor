@@ -1,5 +1,3 @@
 #!bin/bash
-export CFILE=main.c
-touch c
 c=./CFILE
 
