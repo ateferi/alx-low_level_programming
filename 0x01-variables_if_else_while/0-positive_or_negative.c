@@ -18,6 +18,10 @@ int main(void)
 	int n;
 	srand(time(0));
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> e4eff1f046b3c473f4f42e7c0c30d8ac02497756
 	n = rand() - RAND_MAX / 2;
 
 	if (n > 0)
