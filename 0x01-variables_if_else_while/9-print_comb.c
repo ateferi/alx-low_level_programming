@@ -17,8 +17,6 @@ int main(void)
 	for (num = 0; num <= 9; num++)
 	{
 		putchar((num % 10) + '0');
-		
-		
 		putchar(',');
 		putchar(' ');
 	}
@@ -27,5 +25,3 @@ int main(void)
 
 	return (0);
 }
-Footer
-© 2022 GitHub, Inc.
