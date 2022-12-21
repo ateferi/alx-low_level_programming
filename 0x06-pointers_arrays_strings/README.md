@@ -1,2 +1,0 @@
-/*this directory deals with more coding in relation to pointers and arrays
-*/
